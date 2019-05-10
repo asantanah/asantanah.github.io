@@ -1,5 +1,5 @@
 # Repository for my Personal Website
 
-http://asantanaph.github.io
+http://asantanah.github.io
 
 Currently in construction
