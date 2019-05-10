@@ -1,7 +1,5 @@
-# My Website
+# Repository for my Personal Website
 
-line1
-line2
+http://asantanaph.github.io
 
-
-Edit on example branch
+Currently in construction
